@@ -15,7 +15,7 @@ function Ping()
 Ping()
 .then((response) => {
     let Pending = response.data.map((ele) => axios.get(`https://api.github/${ele.login}`))
-    
+    console.log(Pending);
 })
 .catch((error) => {
     console.log(error);
