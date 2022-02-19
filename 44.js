@@ -13,9 +13,6 @@ for (let j = 0; j < res.length; j++)
 {
     for (let k = 0; k < res[j].length; k++)
     {
-        for (let l = 0; l < res.length; l++)
-        {
-            
-        }
+        // Incomplete
     }
 }
