@@ -18,4 +18,4 @@ async function sendSMS(msg)
     }
 }
 
-sendSMS();
+export default sendSMS;

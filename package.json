@@ -19,9 +19,11 @@
   "homepage": "https://github.com/ishaankaushik91/Aggressive_JavaScript#readme",
   "dependencies": {
     "axios": "^0.26.0",
+    "cli-color": "^2.0.1",
     "crypto-js": "^4.1.1",
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
+    "node-schedule": "^2.1.0",
     "readline-sync": "^1.4.10",
     "tree-kill": "^1.2.2",
     "twilio": "^3.74.0"
