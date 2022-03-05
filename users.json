@@ -1,20 +1,7 @@
 [
-    {
-        "todos": [
-            {
-                "id": "20zlequegki",
-                "todo": "Consult a doc",
-                "deadline": "2022-03-02T11:35:09.000Z",
-                "status": false,
-                "count": 3,
-                "mobile": "+919989151967"
-            }
-        ],
-        "name": "sara",
-        "password": "$2a$10$XTh8IXdB6ITJbXxZv9I0TeQn4ReF/XHkIdrkk9KHSedSI0Q6oT9de",
-        "email": "sara@gmail.com",
-        "mobile": "+919989151967",
-        "address": "india",
-        "token": "U2FsdGVkX1+bvbIrubrF3rpVoUwZYWenskciwh+TWpQZtKQPnBwLPalOW1Y98cMjpzOhL7ooCNL7I2jpAtZzYriey8r3HWGSCwDaH+sK9U7C+eyRDF8I3VXzISDLBwPCF05fpMeqZiJ8sJIvG+SluWlMAkWxa2xceAIBk4JvGxWPj8RShbWuBCqblZQ0UV/v23zg2B6ClJieCmEMvOBRD8a4GdDDe/vXij6l+9fTzBu4wvm7trt24Rrs1eUZ7rMrq6Oz+cMMyIcBpJ64qQUdOil6iAtd6EVlAZ50RPb+HMRzK3Yces0WJE2dL9BkRLFO"
-    }
+  { "name": "Yash Sabal", "email": "yash@gmail.com" },
+  { "name": "Yash Sabal", "email": "suahil@gmail.com" },
+  { "name": "ishaan", "email": "ishaankaushik@gmail.com" },
+  { "name": "adnan", "email": "adnanali@gmail.com" },
+  0
 ]
